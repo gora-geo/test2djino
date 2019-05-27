@@ -1,0 +1,255 @@
+
+
+    #chena{}
+     #chena2{}
+     #ru4{}
+      #tiha{}  
+       #yan {}
+       #button1 {}
+       #strelka{}
+        @media screen and (max-width:1406px) {
+          #st-1{
+    width:100%;
+    margin-left: 0px;
+    left: 0;
+  }
+  
+  body{
+    width:100%;
+    background-width:100%;
+  }
+
+  html{
+    width:100%;
+  }
+
+        }
+
+        @media screen and (max-width:1213px) {
+          #setka{
+            width:90%;
+            left:5.54029304029304%;
+    margin-left: 0;
+          }
+
+
+}
+
+@media screen and (max-width:909.75px) {
+          #setka{
+            width:819px;
+            left:20px;
+    margin-left: 0;
+          }
+
+           #cl-1{
+    width: 60px;
+    left: 0;
+
+  }
+   #cl-2{
+    width: 60px;
+    left: 69px;
+
+  }
+#cl-3{
+    width: 60px;
+    left: 138px;
+
+  }
+
+  #cl-4{
+    width: 60px;
+    left: 207px;
+
+  }
+  #cl-5{
+    width: 60px;
+    left: 276px;
+
+  }
+  #cl-6{
+    width: 60px;
+    left: 345px;
+
+  }
+  #cl-7{
+    width: 60px;
+    left: 414px;
+
+  }
+  #cl-8{
+    width: 60px;
+    left: 483px;
+
+  }
+
+  #cl-9{
+    width: 60px;
+    left: 552px;
+
+  }
+  #cl-10{
+    width: 60px;
+    left: 621px;
+
+  }
+  #cl-11{
+    width: 60px;
+    left: 690px;
+
+  }
+  #cl-12{
+    width: 60px;
+    left: 759px;
+
+  }
+
+     
+        }
+        @media screen and (max-width:859px) {
+          #setka{
+            width:95%;
+            left:20px;
+    margin-left: 0;
+          }
+         
+          #cl-1{
+    width: 25%;
+    left: 0;
+
+  }
+   #cl-2{
+    width: 25%;
+    left: 0;
+
+  }
+#cl-3{
+   width: 25%;
+    left: 0;
+
+  }
+
+  #cl-4{
+   width: 25%;
+    left: 25%;
+
+  }
+  #cl-5{
+    width: 25%;
+    left: 25%;
+
+  }
+  #cl-6{
+    width: 25%;
+    left: 25%;
+
+  }
+  #cl-7{
+    width: 25%;
+    left: 50%;
+    z-index: 13;
+
+  }
+  #cl-8{
+    width: 25%;
+    left: 50%;
+
+  }
+
+  #cl-9{
+    width: 25%;
+   left: 50%;
+
+  }
+  #cl-10{
+   width: 25%;
+    left: 75%;
+
+  }
+  #cl-11{
+    width: 25%;
+    left: 75%;
+
+  }
+  #cl-12{
+    width: 25%;
+    left: 75%;
+
+  }
+
+
+
+
+
+         
+     
+     
+    
+ 
+    
+   
+   
+      }
+        /* для декстопов */
+        @media screen  and (max-width:769px)  {
+          
+  #cl-2{
+    width: 40%;
+    left: 0;
+
+  }
+  #cl-5{
+    width: 40%;
+    left: 0;
+  }
+  #cl-8{
+    width: 40%;
+    left: 50%;
+
+  }
+  #cl-11{
+    width: 40%;
+    left: 50%;
+  }     
+
+
+ 
+ 
+        }
+
+
+
+
+        @media screen and (max-width:480px)  {
+
+          #setka{
+           
+            left:20px;
+                width: 90%;
+    
+          }
+
+
+        }
+
+ 
+
+        }
+        @media screen and (max-width:320px) {
+
+          #setka{
+           
+            left:20px;
+                width: 270px;
+    
+          }
+          body {
+             width: 320px;
+
+        }
+
+       
+    }
+
+
